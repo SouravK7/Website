@@ -73,7 +73,7 @@ main p{
 .explore{
     color: white;
     font-size: 25px;
-    border:2px solid white
+    border:2px solid white;
     font-weight: 700;
     display: flex;
     justify-content: center;
